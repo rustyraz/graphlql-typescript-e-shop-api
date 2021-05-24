@@ -1,0 +1,12 @@
+[
+    {
+        "id": "shop_123",
+        "name": "E-Shop",
+        "description": "We sell electronics"
+    },
+    {
+        "id": "shop_133",
+        "name": "Green-Shop",
+        "description": "We sell groceries"
+    }
+]

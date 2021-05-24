@@ -1,0 +1,26 @@
+[
+    {
+        "id": "prod_123",
+        "name": "Lemon",
+        "price": "2",
+        "shopId": "shop_133"
+    },
+    {
+        "id": "prod_133",
+        "name": "Apples",
+        "price": "3",
+        "shopId": "shop_133"
+    },
+    {
+        "id": "prod_12we3",
+        "name": "IPhone 5",
+        "price": "600",
+        "shopId": "shop_123"
+    },
+    {
+        "id": "prod_1sd3",
+        "name": "Laptop",
+        "price": "1000",
+        "shopId": "shop_123"
+    }
+]
